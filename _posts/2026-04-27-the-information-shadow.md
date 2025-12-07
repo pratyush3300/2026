@@ -85,8 +85,7 @@ Thought experiment: Imagine a civilization communicates a natural law not throug
 
 ### B. Non-identifiable functions — rules hidden in the data 
 
-Thought experiment: Two different processes produce identical distributions of all observable texts. One uses a simple rule R, while the other relies on a look-up table based on hidden variables not present in the text. These identical datasets cannot distinguish between them. No amount of data reveals the underlying rule <d-cite key="xu2012identifiability"></d-cite>
-<d-cite key="valiant1984theory"></d-cite>.
+Thought experiment: Two different processes produce identical distributions of all observable texts. One uses a simple rule R, while the other relies on a look-up table based on hidden variables not present in the text. These identical datasets cannot distinguish between them. No amount of data reveals the underlying rule <d-cite key="xu2012identifiability"></d-cite><d-cite key="valiant1984theory"></d-cite>.
 
 **Key point:** Similarity in statistics prevents learning. When several hidden mechanisms lead to the same text distribution, inference cannot determine which mechanism created the data. LLMs can fit either but can’t tell which one is correct.
 
